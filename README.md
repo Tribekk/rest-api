@@ -1,6 +1,8 @@
 <h1>Начало</h1>
 <h2>прописать команды:</h2>
-<p>>git clone https://github.com/Tribekk/rest-api</p>
+```
+git clone https://github.com/Tribekk/rest-api
+```
 <p>> cd rest-api</p>
 <p>>composer install</p>
 <p>>npm install</p>
